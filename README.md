@@ -17,7 +17,6 @@ Users can create custom short links, track analytics, manage links, and monitor 
 🗑 Delete Links
 📷 QR Code Generator
 
-
 🛠 Tech Stack
 Frontend
 React
@@ -78,7 +77,7 @@ Each shortened URL stores:
 
 ⚙️ Installation
 1. Clone Repository
-git clone https://github.com/yourusername/url-shortener.git
+git clone https://github.com/aulonakerqeli1-svg/firebase-url-shortener.git
 2. Install Dependencies
 npm install
 3. Configure Firebase
